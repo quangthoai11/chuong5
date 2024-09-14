@@ -2,7 +2,7 @@
 """
 Created on Sat Sep 14 16:17:22 2024
 
-@author: Cao Ngọc Thanh Thư 23719291
+@author: PC
 """
 tong_chan = 0
 tong_le = 0
