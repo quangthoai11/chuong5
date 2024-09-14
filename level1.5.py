@@ -2,7 +2,7 @@
 """
 Created on Sat Sep 14 16:15:33 2024
 
-@author: Cao Ngọc Thanh Thư 23719291
+@author: PC
 """
 for i in range(101): 
     if i % 2 == 0:  
