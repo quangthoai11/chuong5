@@ -16,9 +16,9 @@ for x in range(1, n // a + 1):
                 current_sum = x + y + z
                 if current_sum > max_sum:
                     max_sum = current_sum
-                    solutions = [(x, y, z)]  # Khởi tạo lại danh sách với nghiệm mới
+                    solutions = [(x, y, z)]
                 elif current_sum == max_sum:
-                    solutions += [(x, y, z)]  # Thay vì append, sử dụng +=
+                    solutions += [(x, y, z)]
 print("Các bộ nghiệm có tổng lớn nhất:")
 for sol in solutions:
     print(sol)
