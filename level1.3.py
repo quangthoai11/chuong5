@@ -2,7 +2,7 @@
 """
 Created on Sat Sep 14 16:10:18 2024
 
-@author: Nhat
+@author: PC
 """
 hang = 8
 cot = 8
