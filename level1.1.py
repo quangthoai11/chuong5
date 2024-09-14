@@ -2,7 +2,7 @@
 """
 Created on Sat Sep 14 15:46:25 2024
 
-@author: Cao Ngọc Thanh Thư 23719291
+@author: PC
 """
 print("Vòng lặp for")
 for i in range(11):
