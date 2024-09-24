@@ -15,4 +15,4 @@ else:
     tien_cuoc = 15000 + 4 * 13500 + (km - 5) * 11000
 if km > 120:
     tien_cuoc *= 0.9
-print(f"Tổng tiền cước taxi là: {tien_cuoc:.0f}đ")
+print(f"Tổng tiền cước taxi là: {round(tien_cuoc)}đ")
