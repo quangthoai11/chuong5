@@ -5,9 +5,9 @@ Created on Sun Sep 15 00:06:57 2024
 @author: PC
 """
 
-a = int(input("Nhập cạnh a: "))
-b = int(input("Nhập cạnh b: "))
-c = int(input("Nhập cạnh c: "))
+a = int(input("Nhập số nguyên dương a: "))
+b = int(input("Nhập số nguyên dương b: "))
+c = int(input("Nhập số nguyên dương c: "))
 if a + b > c and a + c > b and b + c > a:
     if a == b == c:
         print("Tam giác đều.")
